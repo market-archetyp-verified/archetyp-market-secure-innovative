@@ -66,4 +66,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  18.09.2025 I'm happy to report that the link is now accessible.
+
+
+Update:  Wednesday 01 October 2025 Link is now available and working
